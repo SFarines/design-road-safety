@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>UserFlows</title>
+    <link>https://abynim.github.io/UserFlows</link>
+    <description>Generate flow diagrams from Artboards in Sketch</description>
+    <language>en</language>
+    <item>
+      <title>UserFlows 2.2.1</title>
+      <description>
+        <![CDATA[
+          <ul>
+            <li>Use shared styles for link borders</li>
+            <li>Minor bug fixes</li>
+          </ul>
+        ]]>
+      </description>
+      <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.2.1" />
+    </item>
+    <item>
+        <title>UserFlows 2.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Apply Shared Layer Styles to Connection layers</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.2" />
+      </item>
+      <item>
+        <title>UserFlows 2.1.4</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Leverage the new stroke arrows available in Sketch 51</li>
+              <li>Use shared layer styles for connection lines</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.1.4" />
+      </item>
+      <item>
+        <title>UserFlows 2.1.3</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixes for Sketch 50</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.1.3" />
+      </item>
+      <item>
+        <title>UserFlows 2.1.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added artboard magnets</li>
+              <li>Fixed `newPageTitle` bug</li>
+              <li>Simplified export options</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.1.2" />
+      </item>
+      <item>
+        <title>UserFlows 2.1.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added the ability to update an exported flow diagram.</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.1.1" />
+      </item>
+      <item>
+        <title>UserFlows 2.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Include native Sketch Prototype flow connections in generated diagrams.</li>
+              <li>Auto-redraw connections on layers moved (experimental)</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.1" />
+      </item>
+      <item>
+        <title>UserFlows 2.0.8</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixes for Sketch 48.</li>
+              <li>Changed `Create Link` shortcut from (Cmd Shift K) to (Cmd Shift M) to avoid clashing with a new native shortcut.</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.0.8" />
+      </item>
+      <item>
+        <title>UserFlows 2.0.7</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixes for Sketch 47 and High Sierra.</li>
+              <li>Added ability to remove all links from an Artboard or Page.</li>
+              <li>Added option for generating flows at 1x but with retina images.</li>
+              <li>Added option to customize the font size of Condition labels.</li>
+              <li>Added support for Spanish (by @AlvYuste) and Italian (by @KingFelix)</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.0.7" />
+      </item>
+	     <item>
+        <title>UserFlows 2.0.6</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Minor bug fix for older documents</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.0.6" />
+      </item>
+      <item>
+        <title>UserFlows 2.0.5</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixes for Sketch 45</li>
+            </ul>
+          ]]>
+        </description>
+        <enclosure url="https://github.com/abynim/UserFlows/archive/v2.zip" sparkle:version="2.0.5" />
+      </item>
+  </channel>
+</rss>
